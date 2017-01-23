@@ -55,12 +55,12 @@ PRODUCT_PACKAGES += \
     init.qcom.bt.sh
 
 # Browser
-PRODUCT_PACKAGES += \
-    Gello
+#PRODUCT_PACKAGES += \
+#    Gello
 
 # Camera
-PRODUCT_PACKAGES += \
-    Snap
+#PRODUCT_PACKAGES += \
+#    Snap
 
 # Connectivity
 PRODUCT_PACKAGES += \
