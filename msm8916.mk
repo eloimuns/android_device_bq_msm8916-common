@@ -60,6 +60,10 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
+    camera.msm8916 \
+    libqomx_core \
+    libmm-qcamera \
+    libmpbase \
     Snap
 
 # Connectivity
